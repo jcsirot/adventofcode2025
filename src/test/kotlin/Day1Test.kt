@@ -1,3 +1,5 @@
+import org.chelonix.aoc2025.day1Part1
+import org.chelonix.aoc2025.day1Part2
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
